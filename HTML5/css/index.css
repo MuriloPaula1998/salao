@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+h1{
+    color: brown;
+    height: 30px;
+    right: 25px;
+}
+h2{
+    color: red;
+    height: 25;
+    right: 20;
+}
+img{
+    width: 300px;
+    right: 10000px;
+
+}
+.lista{
+    color: red;
+    width: 30px;
+    height: 25px;
+}
+
+
+

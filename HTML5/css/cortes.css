@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: brown;
+    height: 30px;
+    right: 25px;
+}
+del{
+    color: black;
+    height: 30px;
+    right: 25px;
+}
+img{
+    width: 250px;
+    right: 250px;
+}
+a{
+    background-color: black;
+    color: red;
+    
+}
+.inicio{
+    color: red;
+}
